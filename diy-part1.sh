@@ -13,3 +13,6 @@ sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+
+# N1 inst-to-emmc
+git clone https://github.com/tuanqing/install-program package/install-program
