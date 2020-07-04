@@ -1,4 +1,4 @@
-# Actions-OpenWrt For CM520-79F
+# Actions-OpenWrt
 
 
 Build OpenWrt using GitHub Actions
